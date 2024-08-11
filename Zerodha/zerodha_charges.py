@@ -1,9 +1,5 @@
 import sys
 import math
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set_theme()
-
 
 def zerodha_charges(amount, type="delivery", market="NSE", intent="buy"):
 
